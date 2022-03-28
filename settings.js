@@ -18,7 +18,7 @@ global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Rohis Bit" //namabot kalian
+global.botname = "Rohis Bot" //namabot kalian
 global.ownername = "ᴹᴿ᭄ Rohis Gz ×፝֟͜×" //nama kalian
 global.myweb ="https://apikey-bear3.herokuapp.com" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ" //bebas asal jan hapus
